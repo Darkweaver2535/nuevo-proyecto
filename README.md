@@ -1,3 +1,3 @@
 # nuevo-proyecto
 
-## mi primer proyecto
+## Mi primer proyecto
